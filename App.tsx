@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
-      <Text>superr</Text>
+      <Text>superr updated</Text>
     </View>
   )
 }

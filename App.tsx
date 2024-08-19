@@ -3,8 +3,8 @@ import React from 'react'
 
 const App = () => {
   return (
-    <View>
-      <Text>superr updated</Text>
+    <View style={{justifyContent:'center',alignItems:'center'}}>
+      <Text style={{color:'yellow'}}>superr ndsosndaodaok</Text>
     </View>
   )
 }
